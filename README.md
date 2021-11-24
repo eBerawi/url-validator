@@ -2,6 +2,12 @@
 This is a useful Python script that validates a list of URL links from a CSV file and prints the results in a CSV file.
 
 
+# Requirement
+- csv
+- urllib
+- requests
+
+
 # Author
 eBerawi Agency, info@eberawi.uk
 
